@@ -8,3 +8,7 @@ We recommend looking through it often - think of this packet as your Hitchhiker'
 
 This packet is available at https://github.com/MYOB-Technology/Accelerate_Mentor_Material. Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
+# How to teach protege's
+
+https://dev.to/pbeekums/teach-writing-code-first
+https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab  
