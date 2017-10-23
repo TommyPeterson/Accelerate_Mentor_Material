@@ -10,5 +10,5 @@ This packet is available at https://github.com/MYOB-Technology/Accelerate_Mentor
 
 # How to teach protege's
 
-https://dev.to/pbeekums/teach-writing-code-first
-https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab  
+https://dev.to/pbeekums/teach-writing-code-first  
+https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab   
