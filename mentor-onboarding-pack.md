@@ -16,12 +16,14 @@ Your protege will be working through the [Protege Developer Oboarding Packet](ht
 
 ## How often do you meet with your protege
 
-### Weekly catch up
+### Daily catch ups
+
+### Weekly review & planning
 
 * Review progress over previous week  
 * Set expectations for coming week  
 
-### Adhoc informal touch bases
+### Adhoc informal 
 
 We encourage you to touch base with your protege informally as often as possible.
 
