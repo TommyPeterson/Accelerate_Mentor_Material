@@ -1,7 +1,5 @@
 # Mentoring Onboarding Packet
 
-Welcome to MYOB Protege Mentoring!
-
 We're excited to have you as a mentor. This packet contains information that mentor's have found helpful.
 
 We recommend looking through it often - think of this packet as your Hitchhiker's Guide while you are a protege mentor at MYOB! 
