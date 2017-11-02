@@ -33,5 +33,10 @@ We encourage you to touch base with your protege informally as often as possible
 
 ## How to mentor protege's
 
-https://dev.to/pbeekums/teach-writing-code-first  
-https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab   
+
+### Recommended Reading (Blogs, Books, etc)
+
+ https://dev.to/pbeekums/teach-writing-code-first  
+
+MYOB's own John Contad's Presentations:
+ https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab    https://www.infoq.com/presentations/3-story-mentorship
