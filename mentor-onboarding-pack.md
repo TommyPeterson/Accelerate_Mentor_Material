@@ -12,7 +12,7 @@ Your aim is to help your protege be the best software developer they can be.
 
 ## What your protege will be working through
 
-Your protege will be working through the [Protege Developer Oboarding Packet](https://github.com/MYOB-Technology/Protege_Developer/blob/master/protege-onboarding-packet.md), we recommend you read through it so you are familiar with what your protege will be expecting.
+Your protege will be working through the [Protege Developer Onboarding Packet](https://github.com/MYOB-Technology/Protege_Developer/blob/master/protege-onboarding-packet.md), we recommend you read through it so you are familiar with what your protege will be expecting.
 
 ## How often do you meet with your protege
 
