@@ -33,5 +33,11 @@ We encourage you to touch base with your protege informally as often as possible
 
 ## How to mentor protege's
 
+Learning lab content:
+Coaching for success
+Feedback which doesn't suck
+Strengthfinders
+
+
 https://dev.to/pbeekums/teach-writing-code-first  
 https://medium.com/@jpcontad/teaching-graduates-devops-explained-as-movies-8bf747d6abab   
